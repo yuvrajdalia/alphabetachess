@@ -1,0 +1,1 @@
+__all__=["Board1.py","scratch.py","Board.py","moves.py","possibleP.py","possibleA.py","possibleQ.py","possibleK.py","possibleB.py","possibleR.py","kingsafe.py","Rating.py","alphabeta.py","game.py","flipboard.py"]
